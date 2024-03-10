@@ -1,5 +1,5 @@
-import BANNER1 from '../assets/images/banner-1.png';
-import BANNER2 from '../assets/images/banner-2.png';
+import BANNER1 from '../assets/images/banner-1.webp';
+import BANNER2 from '../assets/images/banner-2.webp';
 import GOOGLE from '../assets/images/logo-google.png';
 import NETFLIX from '../assets/images/logo-netflix.png';
 import VERIZON from '../assets/images/logo-verizon.png';
