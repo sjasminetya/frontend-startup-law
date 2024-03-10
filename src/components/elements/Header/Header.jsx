@@ -5,7 +5,7 @@ import Button from '../Button/Button';
 const Header = () => {
   return (
     <header className="flex justify-between items-center bg-white px-[100px] h-[98px]">
-      <img src={IMAGES.LOGO} alt="logo" width={224} height={28} />
+      <img loading="lazy" src={IMAGES.LOGO} alt="logo" width={224} height={28} />
       <ul className="flex items-center gap-[50px]">
         <li>
           <a className="active" href="/">Home</a>
